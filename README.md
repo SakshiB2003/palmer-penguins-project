@@ -27,4 +27,5 @@ install.packages(c("tidyverse", "palmerpenguins", "ggplot2", "dplyr"))
 
 ## 🎥 Project Presentation
 
-📊 [Download Presentation (PPTX)](Palmer_Penguins_Presentation.pptx)  
+![filtered Plot](https://github.com/user-attachments/assets/0aacf8d6-865a-4642-9cf2-831af898099f)
+

@@ -24,3 +24,7 @@ Make sure the following R packages are installed:
 
 ```r
 install.packages(c("tidyverse", "palmerpenguins", "ggplot2", "dplyr"))
+
+## 🎥 Project Presentation
+
+📊 [Download Presentation (PPTX)](Palmer_Penguins_Presentation.pptx)  

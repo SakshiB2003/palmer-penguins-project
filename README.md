@@ -25,7 +25,8 @@ Make sure the following R packages are installed:
 ```r
 install.packages(c("tidyverse", "palmerpenguins", "ggplot2", "dplyr"))
 
-## 🎥 Project Presentation
+## 🎥 Project Presentation also attached
 
-![filtered Plot](https://github.com/user-attachments/assets/0aacf8d6-865a-4642-9cf2-831af898099f)
+
+
 
